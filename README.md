@@ -17,6 +17,7 @@
 
 ## 工具篇
 1.[Git命令及问题点整理](https://github.com/FerrisYufuWang/Articles/blob/master/%E5%B7%A5%E5%85%B7%E7%AF%87-1.Git%E5%91%BD%E4%BB%A4%E5%8F%8A%E9%97%AE%E9%A2%98%E7%82%B9%E6%95%B4%E7%90%86.md)  
+2.[nvm的安装与使用](https://github.com/FerrisW/Articles/blob/master/%E5%B7%A5%E5%85%B7%E7%AF%87-2.nvm%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
 ## 框架篇
 1.[React、Vue各自的服务端渲染框架对比]()
